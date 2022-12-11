@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "47214077210",
+    "project_id": "food-ex-8c96a",
+    "storage_bucket": "food-ex-8c96a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47214077210:android:8cc2fa7e4f1bd2507fb8a3",
+        "android_client_info": {
+          "package_name": "com.royalmart.food_ex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47214077210-qk2k32ddsp5r89urustn0bmm5uo96vjh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.royalmart.food_ex",
+            "certificate_hash": "7b8824c20410aea157df19092446e77612456cb8"
+          }
+        },
+        {
+          "client_id": "47214077210-63k88g79gf8o1eqev22ngeikert6asnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF0cH1u628cgE56i6NhLaKQSfTozoNBRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47214077210-63k88g79gf8o1eqev22ngeikert6asnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
